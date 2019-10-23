@@ -1,5 +1,5 @@
 # python-hacktoberfest
-> Aimed to give a positive overview of open source development. Not comfortable with python?? [here](#contribute-in-other-languages)'s something for you that you would like.
+> Aimed to give a positive overview of open source development. Not comfortable with python?? [here](#contribute-in-other-languages)'s something for you that you would like. Special thanks to [Aman](https://github.com/amanloc1) for review
 ## Regitering for Hacktoberfest. (Already registered?? Start [here](#creating-my-first-pull-request))
 1. Create Github account if not already created.
 2. Register on hacktoberfest if not already registered by clicking [here](https://hacktoberfest.digitalocean.com/)
