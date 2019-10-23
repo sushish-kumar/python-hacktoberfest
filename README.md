@@ -5,7 +5,7 @@
 2. Register on hacktoberfest if not already registered by clicking [here](https://hacktoberfest.digitalocean.com/)
 ## Creating my first pull request.
 1. Signin into your github account.
-2. Fork [this](https://github.com/sushish-kumar/pythpn-hacktoberfest) repository 
+2. Fork [this](https://github.com/sushish-kumar/python-hacktoberfest) repository 
 3. Go to the repository in your own account (\<your-username\>/python-hacktoberfest)
 4. Go to hello_world folder and click "Create new file" button
 5. Give name of file as "<your-username>.py" and write a hello world programme in python
