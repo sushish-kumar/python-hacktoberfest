@@ -18,7 +18,9 @@
 12. finally click "Create pull request" to create a pull request. And
 
 ## Meeting the target
-As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details.
+> You have to meet the target of minimum of 4 Pull Requests to complete the challenge successfully.  
+
+As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details by following `steps 5 to 12` after going into any of the following folders.
   
 |folder_name | details|  
 |--- | --- | 
