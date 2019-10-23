@@ -20,7 +20,8 @@
 ## Meeting the target
 > You have to meet the target of minimum of 4 Pull Requests to complete the challenge successfully.  
 
-As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in the folders other than hello_world as per given details by following `steps 5 to 12` after going into any of the following folders.
+As of now you must have got the idea how to create a pull request. Now you can create another pull request in similar manner in other repos listed [here](#contribute-in-other-languages) or in this repo itself. To create another pull request in this repo, go into folders other than hello_world and `steps 5 to 12` after going into any of the following folders.  
+> Aother Pull Request can only be made after getting your previous Pull request merged. I will try my best to get your PRs merged typically within an hour.  
   
 |folder_name | details|  
 |--- | --- | 
